@@ -2,13 +2,13 @@
 > Today I Learned
 
 ## Categories
+* [Database](#database)
 * [Git](#git)
-* [SQL](#sql)
 
 ---
 
-## Git
-* [Git Basic.md](git/git-basic.md)
+## Database
+* [SQL Cheat Sheet.md](database/sql-cheat-sheet.md)
 
-## SQL
-* [SQL Basic.md](sql/sql-basic.md)
+## Git
+* [Git Cheat Sheet.md](git/git-cheat-sheet.md)
