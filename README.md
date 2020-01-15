@@ -9,6 +9,7 @@
 
 ## Database
 * [SQL Cheat Sheet.md](database/sql-cheat-sheet.md)
+* [Issues.md](database/issues.md)
 
 ## Git
 * [Git Cheat Sheet.md](git/git-cheat-sheet.md)
