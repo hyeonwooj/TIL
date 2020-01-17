@@ -4,7 +4,7 @@
 ## Categories
 * [Database](#database)
 * [Git](#git)
-
+* [Linux](#linux)
 ---
 
 ## Database
@@ -15,4 +15,4 @@
 * [Git Cheat Sheet.md](git/git-cheat-sheet.md)
 
 ## Linux
-* [Commands.md](linux/commands.md)
+* [Linux Commands.md](linux/linux-commands.md)
