@@ -196,7 +196,9 @@ WITH temporary_name AS (SELECT * FROM table_name)SELECT * FROM temporary_name WH
 ```
 It is used to storeh the result of a particular query in a temporary table using an alias
 
-
+## JOIN
+![Visual-Representation-of-SQL-Joins](Visual_SQL_JOINS_orig.jpg)
 ---
 ## Refer to
 [IntelliPaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/)
+[CodeProject](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
