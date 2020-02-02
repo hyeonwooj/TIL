@@ -2,14 +2,20 @@
 > Today I Learned
 
 ## Categories
+* [BI](#bi)
 * [Database](#database)
 * [Git](#git)
 * [Linux](#linux)
 ---
 
+## BI
+* [Implementation.md](bi/implementation.md)
+* [OLTP vs OLAP.md](bi/oltp_vs_olap.md)
+
 ## Database
 * [Issues.md](database/issues.md)
 * [Normalization.md](database/normalization.md)
+* [Star Schema.md](database/star-schema.md)
 * [SQL Cheat Sheet.md](database/sql-cheat-sheet.md)
 
 
