@@ -5,6 +5,7 @@
 * [BI](#bi)
 * [Database](#database)
 * [Git](#git)
+* [IoT](#iot)
 * [Linux](#linux)
 ---
 
@@ -18,9 +19,11 @@
 * [Star Schema.md](database/star-schema.md)
 * [SQL Cheat Sheet.md](database/sql-cheat-sheet.md)
 
-
 ## Git
 * [Git Cheat Sheet.md](git/git-cheat-sheet.md)
+
+## IoT
+* [Azure IoT Architecture.md](iot/azure-iot-architecture.md)
 
 ## Linux
 * [Linux Commands.md](linux/linux-commands.md)
