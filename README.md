@@ -27,3 +27,6 @@
 
 ## Linux
 * [Linux Commands.md](linux/linux-commands.md)
+
+## OJT
+* [Motojin OJT.md](ojt/motojin-ojt.md)
