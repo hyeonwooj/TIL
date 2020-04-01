@@ -8,6 +8,7 @@
 ### SQL
 ![Visual-Representation-of-SQL-Joins](img/Visual_SQL_JOINS_orig.jpg)
 - only use `left join`
+- [Row Oriented VS Column Oriented Data](https://www.geeksforgeeks.org/difference-between-row-oriented-and-column-oriented-data-stores-in-dbms/)
 
 ### BI
 ![bi_hybrid](img/bi_architecture_hybrid.png)
