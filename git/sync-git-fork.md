@@ -22,6 +22,6 @@ $ git merge upstream/master
 
 4. git push
 
-``bash
+```bash
 $ git push origin master
 ```
