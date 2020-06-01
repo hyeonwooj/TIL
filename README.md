@@ -21,6 +21,7 @@
 
 ## Git
 * [Git Cheat Sheet.md](git/git-cheat-sheet.md)
+* [Git Sync with Fork.md](git/sync-git-fork.md)
 
 ## IoT
 * [Azure IoT Architecture.md](iot/azure-iot-architecture.md)
